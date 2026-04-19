@@ -4,7 +4,7 @@ A batteries-included Roblox Luau framework for beginners and senior devs alike.
 
 Drop it into a Rojo project, require `Framework`, and get a loader plus utilities, functions, info tables, services, network events, and tag-discovered modules wired up on both client and server.
 
-Version `1.2.0 - Open Source, Added Utilities`. MIT licensed. Originally by [cxnfusing](https://github.com/cxnfusing).
+Version `1.2.0 - Open Source, Added Utilities`. MIT licensed. Originally by [cxnfusion](https://github.com/cxnfusingworld).
 
 ---
 
@@ -91,10 +91,8 @@ local Trove = Shared.Utilities.Trove
 
 ---
 
-## License
-
-MIT. See [LICENSE](LICENSE).
-
 ## Credits
 
-Originally by cxnfusing. The repo vendors a few third-party libraries — see headers in each vendored file for original authors (ProfileStore by loleris, CameraShaker by Sleitnick, Seam UI library by miagobble, among others).
+Docs written by [SirBepy](https://github.com/SirBepy)
+
+Originally by [cxnfusion](https://github.com/cxnfusingworld). The repo vendors a few third-party libraries — see headers in each vendored file for original authors (ProfileStore by loleris, CameraShaker by Sleitnick, Seam UI library by miagobble, among others).
